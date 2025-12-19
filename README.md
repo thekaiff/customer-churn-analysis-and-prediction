@@ -53,6 +53,33 @@
   </tr>
 </table>
 
+---
+
+<h2 align="center">Interactive Dashboard Walkthrough</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="/Images/summary.gif" target="_blank">
+        <img src="/Images/summary.gif" 
+             alt="Churn Analysis Dashboard Overview"
+             style="max-width:100%; height:auto; border-radius:10px;" />
+      </a>
+      <p><strong>Overall Churn & Customer Behavior Dashboard</strong></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="/Images/prediction.gif" target="_blank">
+        <img src="/Images/prediction.gif" 
+             alt="Predicted Churn Customers Dashboard"
+             style="max-width:100%; height:auto; border-radius:10px;" />
+      </a>
+      <p><strong>Machine Learning – Predicted Churn Customers</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
