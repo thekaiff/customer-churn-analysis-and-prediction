@@ -111,34 +111,34 @@ Churn is a behavioral problem — combining historical patterns with predictive 
 <table align="center">
   <tr>
     <td width="1440">
-<h3>1️⃣ Demographic Insights</h3>
+<h3>1. Demographic Insights</h3>
 <ul>
   <li>Churn is <strong>not evenly distributed</strong> across customer demographics</li>
   <li>Specific age groups contribute up to <strong>1.6× higher churn volume</strong> compared to others</li>
   <li>Marital status analysis shows distinct churn behavior patterns, indicating lifestyle-driven churn risk</li>
 </ul>
 
-<h3>2️⃣ Contract & Tenure Analysis</h3>
+<h3>2. Contract & Tenure Analysis</h3>
 <ul>
   <li><strong>Month-to-Month contracts account for ~70–75% of churn</strong></li>
   <li>Customers in the <strong>0–12 month tenure group churn at nearly double the rate</strong> of long-tenure customers</li>
   <li>Long-term contracts act as a strong churn stabilizer</li>
 </ul>
 
-<h3>3️⃣ Revenue & Billing Behavior</h3>
+<h3>3. Revenue & Billing Behavior</h3>
 <ul>
   <li>Predicted churners have <strong>~38% higher average monthly charges</strong></li>
   <li>Churned customers contribute <strong>significantly lower lifetime revenue</strong> due to early exit</li>
   <li>Customers with fewer referrals are <strong>1.5× more likely to churn</strong></li>
 </ul>
 
-<h3>4️⃣ Geographic Concentration</h3>
+<h3>4. Geographic Concentration</h3>
 <ul>
   <li>Top churn states contribute <strong>over 45% of total churn</strong> despite representing a smaller share of customers</li>
   <li>Indicates potential service quality, pricing, or competitive pressure in specific regions</li>
 </ul>
 
-<h3>5️⃣ Machine Learning – Predicted Churners</h3>
+<h3>5. Machine Learning – Predicted Churners</h3>
 <ul>
   <li>ML model flags <strong>high-risk customers before churn occurs</strong></li>
   <li>Predicted churners closely match historical churn patterns across tenure, contract, and billing</li>
