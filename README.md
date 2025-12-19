@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="300px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/Churn_Analytics_Logo" />
+  <img width="300px" src="https://user-images.githubusercontent.com/90024661/135493461-457a32f2-c03a-4dfa-a9e7-1d1a362dd5f1.png" />
 </div>
 
 <h1 align="center">Customer Retention & Churn Intelligence Analysis</h1>
