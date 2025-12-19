@@ -295,3 +295,44 @@ Churn is a behavioral problem — combining historical patterns with predictive 
 
 
 <h3 align="center">📊 This project demonstrates how data analytics + machine learning can directly drive retention strategy and revenue protection.</h3>
+
+---
+<h2 align="center">Contact</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="1440">
+      <p>
+        If you’d like to discuss the <strong>code</strong>, the <strong>dashboard</strong>, or the <strong>business insights</strong>,
+        feel free to reach out via GitHub or email.
+      </p>
+
+  <p>
+        📧 <strong>Email:</strong> kaifsdkpro@gmail.com
+      </p>
+
+  <p>
+        📬 <strong>LinkedIn:</strong>
+        <a href="https://www.linkedin.com/in/kaifsayed57/" target="_blank">
+          linkedin.com/in/kaifsayed57
+        </a>
+      </p>
+
+  <p>
+        ⭐ <strong>If you found this project insightful, don’t forget to star this repository!</strong>
+      </p>
+
+  <p>
+        Open to Data Analyst, Business Analyst, and Excel / SQL / Power BI–based analytics roles.
+      </p>
+  <p>
+        <em></em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h4 align="center"><em>Made with ❤️ — Kaif Anis Sayed</em></h4>
+
+---
+
