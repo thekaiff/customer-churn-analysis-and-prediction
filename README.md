@@ -157,8 +157,8 @@ Churn is a behavioral problem — combining historical patterns with predictive 
     <td width="1440">
 <h3>📌 Retention Strategy</h3>
 <ul>
-  <li>Target Month-to-Month customers with contract upgrade incentives</li>
-  <li>Deploy early-tenure engagement programs within first 3–6 months</li>
+  <li>Target Month-to-Month customers for contract conversion — potential to reduce churn by <strong>15–20%</strong></li>
+  <li>Deploy onboarding & engagement programs within the first <strong>90 days</strong></li>
 </ul>
 
 <h3>📌 Pricing & Billing Optimization</h3>
