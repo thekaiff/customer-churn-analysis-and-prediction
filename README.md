@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="320px" src="Images/churn.png" />
+  <img width="320px" src="Images/churn logo.png" />
 </div>
 
 <h1 align="center">Customer Churn Intelligence & Risk Prediction</h1>
