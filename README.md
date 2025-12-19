@@ -17,7 +17,7 @@
         Reporting to senior business stakeholders, this project delivers a <strong>full-cycle churn analytics solution</strong> — combining <strong>descriptive analytics, diagnostic insights, and machine learning–driven churn prediction</strong> using Power BI, SQL, Python, and supervised learning models.
       </body>
 
-      <h3>Northstar Business Metrics</h3>
+  <h3>Northstar Business Metrics</h3>
       <h4>
         <ul>
           <li>Customer Churn Rate & At-Risk Customer Identification</li>
