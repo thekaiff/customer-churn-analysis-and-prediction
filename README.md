@@ -36,8 +36,9 @@
   </tr>
 </table>
 
+---
 
-<!-- <h2 align="center">Dashboard Preview</h2>
+<h2 align="center">Dashboard Preview</h2>
 
 <table align="center">
   <tr>
@@ -50,11 +51,10 @@
       <p><strong>Machine Learning – Predicted Churn Customers</strong></p>
     </td>
   </tr>
-</table> -->
+</table> 
 
----
 
-<h2 align="center">Interactive Dashboard Walkthrough</h2>
+<!-- <h2 align="center">Interactive Dashboard Walkthrough</h2>
 
 <table align="center">
   <tr>
@@ -78,7 +78,7 @@
       <p><strong>Machine Learning – Predicted Churn Customers</strong></p>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
