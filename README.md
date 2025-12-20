@@ -54,7 +54,7 @@
 </table>  -->
 
 
-<h2 align="center">Interactive Dashboard Walkthrough</h2>
+<h2 align="center">Dashboard Walkthrough</h2>
 
 <table align="center">
   <tr>
