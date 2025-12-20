@@ -15,7 +15,7 @@
 <h2 align="center">Client Background</h2>
 
 <p>
-<strong>ConnectTel</strong> is a mid-sized <strong>telecommunications service provider</strong> operating across multiple U.S. states, offering mobile, internet, and bundled digital services to a diverse residential customer base. While the company has maintained steady customer acquisition, it has faced <strong>persistent customer churn</strong>, particularly among newly acquired customers and those on flexible contract plans.
+<strong>ConnectTel</strong> is a mid-sized <strong>telecommunications service provider</strong> operating across multiple Indian states, offering mobile, internet, and bundled digital services to a diverse residential customer base. While the company has maintained steady customer acquisition, it has faced <strong>persistent customer churn</strong>, particularly among newly acquired customers and those on flexible contract plans.
 </p>
 
 <p>
