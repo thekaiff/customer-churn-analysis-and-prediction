@@ -1,11 +1,53 @@
 <div align="center">
-  <img width="320px" src="Images/churn.png" />
+  <img width="320px" src="Images/logo.png" />
 </div>
 
 <h1 align="center">Customer Churn Intelligence & Risk Prediction</h1>
 
 <h3 align="center">Industry: Telecommunications | Subscription-Based Services</h3>
 
+---
+
+
+<table align="center">
+  <tr>
+    <td width="1440">
+<h2 align="center">Client Background</h2>
+
+<p>
+<strong>ConnectTel</strong> is a mid-sized <strong>telecommunications service provider</strong> operating across multiple Indian states, offering mobile, internet, and bundled digital services to a diverse residential customer base. While the company has maintained steady customer acquisition, it has faced <strong>persistent customer churn</strong>, particularly among newly acquired customers and those on flexible contract plans.
+</p>
+
+<p>
+At the time of analysis, ConnectTel managed a customer base consisting of <strong>tens of thousands of active and former customers</strong>, generating recurring monthly revenue through subscription-based pricing models. The business operates across multiple contract types, payment methods, tenure lengths, and service combinations—creating operational complexity in identifying <strong>why customers churn and which active customers are most at risk</strong>.
+</p>
+
+<p>
+Despite having access to rich customer, demographic, account, and service usage data, churn monitoring at ConnectTel was largely <strong>reactive and descriptive</strong>. Leadership and retention teams lacked a centralized, insight-driven view of churn drivers, limiting their ability to <strong>prioritize high-risk customers and take proactive retention actions</strong>.
+</p>
+
+<p>
+Reporting to the <strong>Customer Experience and Revenue Operations teams</strong>, an end-to-end churn analysis was conducted using <strong>SQL, Power BI, and Machine Learning</strong>. The engagement combined historical churn analysis with predictive modeling to enable a shift from reactive churn tracking to a <strong>proactive, data-driven retention strategy</strong>.
+</p>
+
+<strong>Key Focus Areas of the Analysis:</strong>
+<ul>
+  <li>Quantifying overall churn rate and identifying high-risk customer segments</li>
+  <li>Analyzing the impact of <strong>contract type, tenure length, and pricing</strong> on churn</li>
+  <li>Evaluating <strong>payment methods and billing preferences</strong> as churn indicators</li>
+  <li>Identifying <strong>geographic and demographic churn patterns</strong> to support targeted interventions</li>
+  <li>Building a <strong>machine learning–based churn prediction model</strong> to flag active customers at risk of churning</li>
+</ul>
+
+<p>
+The insights and recommendations from this analysis support <strong>executive decision-making, retention strategy design, and targeted customer engagement</strong>, with the objective of <strong>reducing avoidable churn and protecting recurring revenue</strong>.
+</p>
+
+   </td>
+  </tr>
+</table>
+
+---
 
   <h2 align="center">Executive Summary</h2>
   <table align="center">
@@ -38,6 +80,49 @@
 
 ---
 
+<!-- <h2 align="center">Dashboard Preview</h2>
+
+<table align="center">
+  <tr>
+    <td width="720" align="center">
+      <img src="/Images/summary.gif" width="680" alt="Churn Analysis Dashboard Summary" />
+      <p><strong>Overall Churn & Customer Behavior Overview</strong></p>
+    </td>
+    <td width="720" align="center">
+      <img src="/Images/prediction.gif" width="680" alt="Predicted Churn Customers Dashboard" />
+      <p><strong>Machine Learning – Predicted Churn Customers</strong></p>
+    </td>
+  </tr>
+</table>  -->
+
+
+<h2 align="center">Dashboard Walkthrough</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="/Images/summary.gif" target="_blank">
+        <img src="/Images/summary.gif" 
+             alt="Churn Analysis Dashboard Overview"
+             style="max-width:100%; height:auto; border-radius:10px;" />
+      </a>
+      <p><strong>Overall Churn & Customer Behavior Dashboard</strong></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="/Images/prediction.gif" target="_blank">
+        <img src="/Images/prediction.gif" 
+             alt="Predicted Churn Customers Dashboard"
+             style="max-width:100%; height:auto; border-radius:10px;" />
+      </a>
+      <p><strong>Machine Learning – Predicted Churn Customers</strong></p>
+    </td>
+  </tr>
+</table>
+
+---
 
 <h2 align="center">Business Problem</h2>
 <table align="center">
@@ -61,6 +146,9 @@ Build a churn intelligence framework that answers:
   <li><em>Who is likely to churn next?</em></li>
 </ul>
 </body>
+</td>
+  </tr>
+</table></body>
 </td>
   </tr>
 </table>
@@ -140,10 +228,22 @@ Churn is a behavioral problem — combining historical patterns with predictive 
 
 <h3>5. Machine Learning – Predicted Churners</h3>
 <ul>
-  <li>ML model flags <strong>high-risk customers before churn occurs</strong></li>
-  <li>Predicted churners closely match historical churn patterns across tenure, contract, and billing</li>
-  <li>Provides a <strong>prioritized churn risk list</strong> for targeted retention campaigns</li>
+  <li>
+    <strong>High-Risk Churn Segment Identified:</strong>
+    The Random Forest model identified <strong>~18–22% of active customers</strong> as high-risk churners, enabling targeted retention strategies instead of blanket offers.
+  </li>
+
+  <li>
+    <strong>Revenue at Risk Highlighted:</strong>
+    Predicted churn customers contribute disproportionately higher refunds and lower tenure, representing an estimated <strong>15%+ potential revenue leakage</strong> if not proactively addressed.
+  </li>
+
+  <li>
+    <strong>Key Churn Drivers Validated:</strong>
+    Contract type, tenure length, monthly charges, and payment method emerged as top predictors — validating insights seen in descriptive analysis and strengthening confidence in business decisions.
+  </li>
 </ul>
+
    </td>
   </tr>
 </table>
@@ -237,3 +337,44 @@ Churn is a behavioral problem — combining historical patterns with predictive 
 
 
 <h3 align="center">📊 This project demonstrates how data analytics + machine learning can directly drive retention strategy and revenue protection.</h3>
+
+---
+<h2 align="center">Contact</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="1440">
+      <p>
+        If you’d like to discuss the <strong>code</strong>, the <strong>dashboard</strong>, or the <strong>business insights</strong>,
+        feel free to reach out via GitHub or email.
+      </p>
+
+  <p>
+        📧 <strong>Email:</strong> kaifsdkpro@gmail.com
+      </p>
+
+  <p>
+        📬 <strong>LinkedIn:</strong>
+        <a href="https://www.linkedin.com/in/kaifsayed57/" target="_blank">
+          linkedin.com/in/kaifsayed57
+        </a>
+      </p>
+
+  <p>
+        ⭐ <strong>If you found this project insightful, don’t forget to star this repository!</strong>
+      </p>
+
+  <p>
+        Open to Data Analyst, Business Analyst, and Excel / SQL / Power BI–based analytics roles.
+      </p>
+  <p>
+        <em></em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h4 align="center"><em>Made with ❤️ — Kaif Anis Sayed</em></h4>
+
+---
+
